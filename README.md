@@ -17,9 +17,6 @@ The top emojis used across sentiments.
 How to Run
 Clone the Repository
 
-git clone https://github.com/jazhanma/TweetSentiment.git
-cd TweetSentiment
-
 
 Install Dependencies: Ensure Python and pip are installed, then run:
 pip install -r requirements.txt
